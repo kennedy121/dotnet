@@ -1,4 +1,7 @@
-﻿using System;
+﻿/// <summary>
+/// Provides the entry point for the application.
+/// </summary>
+using System;
 using System.Collections.Generic;
 
 namespace DIO.Bank
